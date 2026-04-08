@@ -1,0 +1,14 @@
+{
+  "name": "tnt-esports-bot",
+  "version": "1.0.0",
+  "description": "Bot TNT E-SPORTS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
